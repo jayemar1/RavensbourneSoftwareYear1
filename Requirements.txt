@@ -1,1 +1,10 @@
+Install matplotlib using
+"pip install matplotlib"
+
+Install pandas using
+"pip install pandas"
+
+Install counter using
+"pip install counter"
+
 
