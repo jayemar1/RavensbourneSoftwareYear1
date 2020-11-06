@@ -19,3 +19,6 @@ https://www.youtube.com/watch?v=mlt7MrwU4hY&t=997s
 
 CS Dojo
 https://www.youtube.com/watch?v=a9UrKTVEeZA
+
+Lecture slides by Neda Azarmehr
+https://rave.aula.education/?&login=true&tmp#/dashboard/dzrh6vgH2u/community/feed
