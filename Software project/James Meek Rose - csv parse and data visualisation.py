@@ -6,7 +6,7 @@ Created on Thu Nov  5 13:00:17 2020
 """
 
 #Imports all the modules that allows me to mangage the data how I would like using their unique properties
-#'plt', 'pd' and 'np' names are given to their respective module for ease of use
+#'plt' and 'pd' names are given to their respective module for ease of use
 
 import csv
 import pandas as pd
