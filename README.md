@@ -22,3 +22,9 @@ https://www.youtube.com/watch?v=a9UrKTVEeZA
 
 Lecture slides by Neda Azarmehr
 https://rave.aula.education/?&login=true&tmp#/dashboard/dzrh6vgH2u/community/feed
+
+Sentdex
+https://www.youtube.com/c/sentdex
+
+Corey Schafer
+https://www.youtube.com/user/schafer5
