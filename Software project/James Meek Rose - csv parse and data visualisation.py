@@ -87,7 +87,9 @@ print("The sum of the speed is: ",showSum)
 showsVariation = calc['00'].var() 
 print("The variation of the speed is: ",showsVariation)
 
-
+#Calulates Range
+showRange = calc['00'].max() - calc['00'].min()
+print("The range in speed is: ",showRange)
 
 
 
